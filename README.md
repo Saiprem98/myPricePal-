@@ -1,5 +1,4 @@
 # MyPricePal
-by Justin Lee, Sam Pettus, Sai Kathika, Brice Redmond, Ramon Verdin for UCSB's CS48
 
 ## Description: 
 - MyPricePal is an IOS application that scans barcodes and lists competitive prices at online retailers for the same or similar product.
@@ -34,5 +33,4 @@ by Justin Lee, Sam Pettus, Sai Kathika, Brice Redmond, Ramon Verdin for UCSB's C
   - Nutritional Info
   - Possible recipes for products  
 
-## [LICENSE](https://github.com/bredmond5/CS48_Project/blob/master/LICENSE)
-- Apache 2.0 License. 
+
