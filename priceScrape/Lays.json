@@ -1,0 +1,52 @@
+{
+  "Lays": {
+    "Store Name": [
+      "Rite Aid", 
+      "Albertsons", 
+      "Vons", 
+      "Walgreens", 
+      "Costco", 
+      "Smart & Final"
+    ], 
+    "Product name": [
+      "Lays Classic Potato Chip", 
+      "Frito Lay Family Variety Pack, Classic Mix, Small Bags", 
+      "Lays Frito-Lay Variety Pack, 6 Flavor Mix", 
+      "Lay's Potato Chips, Classic", 
+      "Frito Lay Variety Pack, Grab Size", 
+      "Frito Lay Variety Pack"
+    ], 
+    "Price": [
+      "2 for |dollars|6|point|00", 
+      "|dollars|5|point|99", 
+      "|dollars|5|point|99", 
+      "2 for |dollars|5|point|00", 
+      "|dollars|3|point|90 Off", 
+      "|dollars|11|point|99"
+    ], 
+    "Deal End": [
+      "Ends Saturday", 
+      "Ends 05-14-19", 
+      "Ends 05-14-19", 
+      "Ends Saturday", 
+      "Ends Sunday", 
+      "Ends 05-14-19"
+    ], 
+    "Picture URL": [
+      "https:|slash||slash|products|point|mygrocerydeals|point|com|slash|generic|slash|snacks|point|jpg?deal=094a3a0a-1cb9-4b1c-8c58-3f38fa897e6e&upc=2840000353&chain=182", 
+      "https:|slash||slash|products|point|mygrocerydeals|point|com|slash|0|slash|4|slash|4|slash|2840015440|point|png?deal=a04c220c-8fa9-4637-ba35-9fbb1c3dbb4f&upc=2840015440&chain=4", 
+      "https:|slash||slash|products|point|mygrocerydeals|point|com|slash|3|slash|4|slash|4|slash|2840015443|point|png?deal=2a0d7c47-272d-4467-903b-9a6c2fcb054e&upc=2840015443&chain=238", 
+      "https:|slash||slash|products|point|mygrocerydeals|point|com|slash|4|slash|1|slash|9|slash|2840019914|point|jpg?deal=3a533620-03d8-4921-98b7-7ea6109b447a&upc=2840019914&chain=240", 
+      "https:|slash||slash|products|point|mygrocerydeals|point|com|slash|generic|slash|snacks|point|jpg?deal=0d6fdd1e-b227-498e-9900-3d3fc5768fe5&upc=2840004800&chain=39", 
+      "https:|slash||slash|products|point|mygrocerydeals|point|com|slash|4|slash|0|slash|4|slash|2840004404|point|jpg?deal=78e683fe-0f41-4446-844f-9d903890630c&upc=2840004404&chain=199"
+    ], 
+    "Size or Count": [
+      "6 oz", 
+      "18 ct", 
+      "18 ct", 
+      "8 oz", 
+      "30 ea", 
+      "50 ea"
+    ]
+  }
+}
