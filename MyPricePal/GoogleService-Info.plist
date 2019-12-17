@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>261764384449-06udvdv3j4klp6a6tn2u2l1cap8nbv1a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.261764384449-06udvdv3j4klp6a6tn2u2l1cap8nbv1a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC67Qj-pMD9yPA_e2SuRkR9B2p14rLeXWs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>261764384449</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BriceRedmond.MyPricePal2</string>
+	<key>PROJECT_ID</key>
+	<string>cs48-mypricepal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cs48-mypricepal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:261764384449:ios:29fff42ad21d5669</string>
+	<key>DATABASE_URL</key>
+	<string>https://cs48-mypricepal.firebaseio.com</string>
+</dict>
+</plist>
